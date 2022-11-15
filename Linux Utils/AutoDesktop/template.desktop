@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=App Name
+Exec=/opt/app.sh
+Icon=/opt/app.png
+Type=Application
+Comment=Description of the app
+Categories=Development;IDE;
+StartupWMClass=Window Class Name
+Terminal=false
